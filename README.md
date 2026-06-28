@@ -8,12 +8,10 @@ Just someone building things behind a screen. No corporate bios, no formal intro
 
 ## 🛠️ Tech Stack & Weapons of Choice
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js (App Router), React.js |
-| **Styling & UI** | Tailwind CSS, Shadcn UI |
-| **Backend & DB** | Supabase, PostgreSQL (`pgvector`) |
-| **Workflow** | AI-Assisted Development, Prompt Engineering |
+* 🌐 **Frontend:** `Next.js (App Router)` • `React.js`
+* 🎨 **Styling & UI:** `Tailwind CSS` • `Shadcn UI` • `Radix Primitives`
+* 🗄️ **Backend & DB:** `Supabase` • `PostgreSQL` • `pgvector`
+* 🧠 **Workflow:** `AI-Assisted Development` • `Prompt Engineering`
 
 ---
 
@@ -28,7 +26,7 @@ Just someone building things behind a screen. No corporate bios, no formal intro
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.ai/api?username=rynngrspace-dot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=tokyonight&count_private=true" alt="rynngrspace-dot GitHub Stats" />
 </p>
 
 ---
