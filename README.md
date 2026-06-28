@@ -26,7 +26,6 @@ Just someone building random things behind a screen while pretending I completel
 If you like what's being built or want to accelerate the next deployment before my attention span runs out, feel free to drop some caffeine.
 
 * 🛒 **Need a feature built?** Drop a message, open an issue, or send a distress signal.
-* ☕ **Send Coffee:** [Insert your Saweria/Trakteer/Crypto link here]
 
 ---
 
