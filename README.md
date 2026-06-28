@@ -6,11 +6,14 @@ Just someone building random things behind a screen while pretending I completel
 
 ## 🛠️ Tech Stack (The Overengineered Toolkit)
 
+*Copilot and I have a love-hate relationship, but mostly love.*
+
 * 🌐 **Frontend:** `Next.js` • `React.js` — *Building fast, dynamic UIs before my coffee gets cold.*
-* 🎨 **Styling & UI:** `Tailwind CSS` • `Shadcn UI` (Because writing raw CSS in 2026 feels like a crime)
+* 🛡️ **Language:** `TypeScript` — *Adding static types because debugging `undefined is not a function` at 3 AM is not it.*
+* 🎨 **Styling & UI:** `Tailwind CSS` • `Shadcn UI` — *Because writing raw CSS in 2026 feels like a crime.*
 * 🪵 **Backend:** `Laravel` • `Python` — *Handling the heavy lifting, routing, and scripting behind the scenes.*
 * 🗄️ **Databases:** `MySQL` • `PostgreSQL` • `MongoDB` — *Storing data across whatever engine fits the mood because regular searching is too mainstream.*
-* 🧠 **Workflow:** `AI-Assisted Development` • `Prompt Engineering` (Copilot and I have a love-hate relationship, but mostly love)
+
 
 ---
 
