@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=200&section=header&text=hello%20there!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Modern%20Web%20Applications&descAlignY=58&descAlign=62" width="100%" alt="Header Banner"/>
+<h1>hello there!</h1>
+<h3>Building Modern Web Applications</h3>
 
 <br/>
 
