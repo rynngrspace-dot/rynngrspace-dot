@@ -4,12 +4,12 @@
 
 ### Welcome to my GitHub!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+applications;Still+learning%2C+still+shipping;Coffee+first%2C+bugs+later+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hello%2C+welcome+to+my+GitHub!;I+build+web+applications.;JavaScript+%7C+PHP+Developer.;Always+learning+something+new.;Debugging+today%2C+deploying+tomorrow." alt="Typing SVG" />
 
 <br/>
 
 [![Location](https://img.shields.io/badge/Indonesia-5A189A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3C096C?style=for-the-badge&logo=web&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3C096C?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white)](#)
 
@@ -22,7 +22,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 Hi! I'm a web developer from Indonesia who enjoys building clean and useful web applications.
 
@@ -30,78 +30,78 @@ Most of my projects are built using **JavaScript** and **PHP**, mainly with **Ne
 
 I enjoy learning new technologies, solving problems, and turning ideas into something people can actually use.
 
-> Fun fact: Sometimes I spend 30 minutes looking for a bug... only to realize I forgot a semicolon. ☕😂
+> **Fun fact:** I spend 10% writing code and 90% wondering why it worked yesterday.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css&theme=dark" />
 </p>
 
-### Frameworks
+### ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,laravel,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,laravel,tailwind&theme=dark" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-### 🍽️ Multi-Tenant Restaurant SaaS
+## 🍽️ Multi-Tenant Restaurant SaaS
 
-A restaurant management system designed for multiple branches.
+A restaurant management system built for multiple restaurant branches.
 
 **Features**
 
+- Multi-tenant architecture
 - QR Ordering
 - Dashboard
-- Multi Branch
 - Payment Integration
 - Responsive UI
 
 ---
 
-### 💬 Community Forum
+## 💬 Community Forum
 
-A simple discussion platform built with Next.js and PostgreSQL.
+A modern discussion platform built with Next.js and PostgreSQL.
 
 **Features**
 
 - Authentication
 - CRUD Posts
-- Responsive Design
 - Search
 - User Profiles
+- Responsive Design
 
 ---
 
-### ⚽ Persib Supporter Hub
+## ⚽ Persib Supporter Hub
 
-A website dedicated to Persib supporters.
+A website created for Persib supporters.
 
 **Features**
 
-- Responsive Design
 - Modern UI
+- Responsive Layout
+- Community Platform
 - Fast Performance
-- Community Focus
 
 ---
 
@@ -109,13 +109,13 @@ A website dedicated to Persib supporters.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=radical&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rynngrspace-dot&theme=radical&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rynngrspace-dot&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -125,7 +125,7 @@ A website dedicated to Persib supporters.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rynngrspace-dot&theme=radical&no-bg=true&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rynngrspace-dot&theme=radical&no-frame=true&no-bg=true&column=7"/>
 
 </div>
 
@@ -146,9 +146,9 @@ A website dedicated to Persib supporters.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -158,31 +158,35 @@ A website dedicated to Persib supporters.
 # 🎯 Current Focus
 
 ```yaml
-currently_learning:
+learning:
   - Next.js
   - Laravel
   - Clean Architecture
 
-currently_building:
-  - Web Applications
+building:
   - Personal Projects
+  - Web Applications
 
-databases:
+database:
   - MySQL
   - PostgreSQL
   - MongoDB
 
 fun_fact:
-  - My code works...
-  - Until someone else runs it 😂
+  - Works on my machine.
+  - Hopefully yours too.
 ```
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+### 🤝 Let's Connect
 
-*"Keep learning, keep building, and don't forget to commit before everything breaks."*
+I'm always open to learning, collaborating, and building awesome projects.
+
+Thanks for visiting my profile!
+
+*"Keep learning. Keep building. Keep committing."*
 
 </div>
