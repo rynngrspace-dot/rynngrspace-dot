@@ -5,12 +5,13 @@ Software Developer based in Indonesia, focused on building efficient web applica
 ### Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NextJS" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MongoDB" width="42" height="42" />
 </p>
 
 ### What I Do
