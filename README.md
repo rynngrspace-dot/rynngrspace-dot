@@ -5,13 +5,8 @@ Software Developer based in Indonesia, focused on building efficient web applica
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,vscode" />
-</p>
-
-<!-- Animated Tech Stack Option (Uses Skillicons animation/style) -->
-<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,express,tailwind,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
@@ -24,8 +19,8 @@ Software Developer based in Indonesia, focused on building efficient web applica
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=dark&hide_border=true" alt="Ryn's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.pw/api?username=rynngrspace-dot&show_icons=true&theme=dark&hide_border=true" alt="Ryn's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.pw/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
 </p>
 
 ---
