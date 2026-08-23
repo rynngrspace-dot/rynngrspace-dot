@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
@@ -44,19 +44,15 @@
 
 - 🔭 **Building:** High-performance web architectures that seamlessly scale.
 - 🌱 **Refining:** Distributed backend systems and clean, typed interfaces.
-- 💬 **Let's Talk About:** Modern frontend ecosystems, state management, or web performance.
-- ☕ **The Reality:** Turning complex business logic into elegant solutions *(after 12 `console.log`s and 50 open tabs)*.
+- 💬 **Let's Talk About:** Modern web ecosystems, system architecture, or performance.
+- ☕ **The Reality:** Turning complex business logic into simple solutions.
 
 ---
 
-### 📊 GitHub Overview
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rynngrspace&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
