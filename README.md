@@ -19,19 +19,30 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
+  <!-- Languages & Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NextJS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Laravel" width="45" height="45" />
+  <!-- Backend & Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
   &nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
+  &nbsp;
+  <!-- AI Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Powered-ChatGPT_|_Copilot_|_Claude-7A1EA1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 </p>
 
 ---
