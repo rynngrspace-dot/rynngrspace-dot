@@ -1,8 +1,10 @@
-# Hi there!
+# Hi there! 👋
 
-Software Developer based in Indonesia, focused on building efficient web applications and exploring modern technologies.
+Software Developer based in 🇮🇩 Indonesia. I turn caffeine into code and somehow convince browsers to behave.
 
 ### Tech Stack
+
+*Equipped with tools that usually work on the first try (after 12 console.logs).*
 
 <p align="left">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="42" height="42" />
@@ -16,14 +18,15 @@ Software Developer based in Indonesia, focused on building efficient web applica
 
 ### What I Do
 
-- 🔭 Currently working on web development projects
-- 🌱 Learning advanced backend architectures & system design
-- 💬 Ask me about frontend frameworks, JavaScript, and Web Dev
+- 🔭 **Currently:** Building cool web apps and closing 47 open browser tabs.
+- 🌱 **Learning:** System design, backend architecture, and how to stop writing `any` in TypeScript.
+- 💬 **Ask me about:** JavaScript, frontend frameworks, and why my code worked on localhost.
+- ⚡ **Fun Fact:** My commit history is mostly `fix: real fix this time`.
 
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.pw/api?username=rynngrspace-dot&show_icons=true&theme=dark&hide_border=true" alt="Ryn's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.pw/api?username=rynngrspace-dot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.pw/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
 </p>
 
