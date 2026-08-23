@@ -56,8 +56,11 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=dark&hide_border=true&title_color=61afef&icon_color=61afef&text_color=abb2bf&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=0d1117" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
