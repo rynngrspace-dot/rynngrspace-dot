@@ -38,10 +38,6 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Powered-ChatGPT_|_Copilot_|_Claude-7A1EA1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-</p>
-
 ---
 
 ### 🌌 Beyond the Code
@@ -56,11 +52,11 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-v2.vercel.app/api?username=rynngrspace-dot&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rynngrspace&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-v2.vercel.app/api/top-langs/?username=rynngrspace-dot&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynngrspace&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
