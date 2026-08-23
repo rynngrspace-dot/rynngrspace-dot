@@ -1,8 +1,13 @@
-<h1 align="center">Hi there!👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
   <em>Crafting clean, scalable web applications with precision and modern technology.</em><br>
   Based in 🇮🇩 Indonesia · Driven by curiosity, coffee, and clean architecture.
+</p>
+
+<!-- Open to Work Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00C853?style=for-the-badge&logoColor=white" alt="Open to Work" />
 </p>
 
 <p align="center">
@@ -19,26 +24,10 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <!-- Languages & Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
-  &nbsp;
-  <!-- Backend & Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
-  &nbsp;
-  <!-- AI Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <!-- Animated Tech Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,mysql,postgres,mongodb,python,vscode,github,figma&perline=6" alt="My Tech Stack" />
+  </a>
 </p>
 
 <p align="center">
