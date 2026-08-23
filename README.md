@@ -49,11 +49,11 @@
 
 ---
 
-### 📈 Contribution Graph
+### 💡 Featured Highlights
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rynngrspace&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
+- ⚡ **Full-Stack Development:** End-to-end web apps built with Next.js, Laravel, and modern databases.
+- 🎨 **Clean UI & UX:** Crafting responsive, accessible, and intuitive user interfaces.
+- ⚙️ **Backend Architecture:** Designing fast APIs and efficient schema structures.
 
 ---
 
