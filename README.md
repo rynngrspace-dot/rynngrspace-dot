@@ -19,23 +19,23 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/javascript.svg" alt="JavaScript" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/typescript.svg" alt="TypeScript" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/react.svg" alt="React" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/nextjs.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/laravel.svg" alt="Laravel" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/mysql.svg" alt="MySQL" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/mongodb.svg" alt="MongoDB" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/python.svg" alt="Python" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
 </p>
 
 <p align="center">
