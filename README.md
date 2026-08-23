@@ -1,4 +1,4 @@
-# Hi there, I'm Ryn 🇮🇩
+# Hi there!
 
 Software Developer based in Indonesia, focused on building efficient web applications and exploring modern technologies.
 
